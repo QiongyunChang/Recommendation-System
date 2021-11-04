@@ -1,5 +1,4 @@
 """
-NM6104054 張瓊云
 (1) User‐based Collaborative Filtering (U‐CF)
 (2) Item‐based Collaborative Filtering (I‐CF)
 
